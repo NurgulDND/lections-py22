@@ -24,4 +24,25 @@ git add . - все в текущей директории
   
   git push origin main
   
+  ________________________________________
+  
+  
+  1. git init 
+  2. git branch -M main (rename main from master)
+  3. git add . 
+  4. git commit -m 'comment' (все добавлено в локальный репо)
+  5. git remote add origin <url>
+  6. git push origin main
+  \\\\\\\\\
+  git add .
+  git commit -m 'comment'
+  git push origin main
+  
+  
+  
+  
+  
+  
+  
+  
   
